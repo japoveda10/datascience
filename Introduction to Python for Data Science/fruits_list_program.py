@@ -66,19 +66,19 @@ print("\n")
 
 #fruits and y pointing to the same list
 print("y = fruits \n")
-print("fruits and y are goint to point to the same list \n")
+print("fruits and y are going to point to the same list \n")
 y = fruits
 
 print("y[0] changed to Grape and 6 \n")
 y[0] = ["Grape", 6]
 
 #fruits list also changes
-print("This is y list \n")
-print(y)
+print("This is fruits \n")
+print(fruits)
 print("\n")
 
-print("This is fruits list \n")
-print(fruits)
+print("This is y \n")
+print(y)
 print("\n")
 
 print("They both changed \n")
