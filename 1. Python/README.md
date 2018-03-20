@@ -5,7 +5,3 @@ This repository has some Python exercises and projects I have made. They are org
 
 1. Intro to Python
 2. Programming with Python
-
-# Author
-
-[Julio Poveda](https://github.com/japoveda10)
