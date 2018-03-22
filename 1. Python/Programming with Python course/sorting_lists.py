@@ -35,7 +35,7 @@ def sort_lists(first_list, second_list):
     first_list_end_time = time.time()
 
     # Informative message
-    print("(3.1) Python´s sorted function took " + str(first_list_end_time - first_list_start_time) + " to sort the first list.")
+    print("(3.1) Python´s sorted function took " + str(first_list_end_time - first_list_start_time) + " seconds to sort the first list.")
 
     # Second list
 
@@ -49,7 +49,7 @@ def sort_lists(first_list, second_list):
     second_list_end_time = time.time()
 
     # Informative message
-    print("(3.2) Python´s sorted function took " + str(second_list_end_time - second_list_start_time) + " to sort the second list.")
+    print("(3.2) Python´s sorted function took " + str(second_list_end_time - second_list_start_time) + " seconds to sort the second list.")
 
     print("")
 
