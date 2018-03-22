@@ -3,6 +3,7 @@ This repository has Python programs I made for the Programming with Python cours
 
 1. <b>Sorting Lists program:</b> Create lists and compare sorting times based on their size
 2. <b>Position and Velocity program:</b> Learn some Kinematics interacting with a position and velocity equation
+3. <b>Slot Machine program:</b> Are you ready to try to have the highest score?
 
 ## How can I run the programs?
 
