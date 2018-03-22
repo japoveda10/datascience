@@ -2,6 +2,7 @@
 This repository has Python programs I made for the Programming with Python course:
 
 1. <b>Sorting Lists program:</b> Create lists and compare sorting times based on their size
+2. <b>Position and Velocity program:</b> Learn some Kinematics interacting with a position and velocity equation
 
 ## How can I run the programs?
 
