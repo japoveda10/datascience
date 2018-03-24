@@ -6,6 +6,7 @@ This repository has Python programs I made for the Programming with Python cours
 3. <b>Slot Machine program:</b> Are you ready to try to have the highest score?
 4. <b>Matrix program:</b> Create a matrix, put values inside it, apply a square or multiply function to all elements, transpose the matrix and print it
 5. <b>Dictionary program:</b> Reads a words.txt file and creates a dictionary to find words inside it.
+6. <b>Grade book program:</b> Create a grade book with students and assignments. Add a student or an assignment, look for a student, enter grade, delete assignment and print all students information.
 
 ## How can I run the programs?
 
