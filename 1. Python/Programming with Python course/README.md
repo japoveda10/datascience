@@ -5,6 +5,7 @@ This repository has Python programs I made for the Programming with Python cours
 2. <b>Position and Velocity program:</b> Learn some Kinematics interacting with a position and velocity equation
 3. <b>Slot Machine program:</b> Are you ready to try to have the highest score?
 4. <b>Matrix program:</b> Create a matrix, put values inside it, apply a square or multiply function to all elements, transpose the matrix and print it
+5. <b>Dictionary program:</b> Reads a words.txt file and creates a dictionary to find words inside it.
 
 ## How can I run the programs?
 
