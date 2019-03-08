@@ -1,5 +1,5 @@
 # Data Science
-In this repository I publish some of my projects related to Data Science:
+In this repository I publish some of my Data Science related projects.
 
 ## What does it have?
 
