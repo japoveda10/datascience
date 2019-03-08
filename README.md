@@ -7,6 +7,8 @@ In this repository I publish some of my Data Science related projects.
 
 2. [Jupyter Notebooks](https://github.com/japoveda10/datascience/tree/master/2.%20Jupyter%20Notebooks)
 
+3. [R](https://github.com/japoveda10/datascience/tree/master/3.%20R)
+
 ## Author
 
 [Julio Poveda](https://github.com/japoveda10)
